@@ -2377,8 +2377,8 @@ input, select, textarea {
 
 	#sidebar section {
 		border-top: solid 1px #d2d7dc;
-		margin-top: 3em;
-		padding-top: 3em;
+		margin-top: 1em;
+		padding-top: 1em;
 	}
 
 		#sidebar section:first-child {
@@ -2405,7 +2405,7 @@ input, select, textarea {
   }
 
   #sidebar .awards li {
-    width: 200px;
+    width: 120px;
   }
 
   #sidebar .affiliates li {
@@ -2424,6 +2424,10 @@ input, select, textarea {
     max-width: 20%;
     height: auto;
     display: block;
+  }
+
+  #sidebar h4 {
+    font-weight: 800;
   }
 
 /* Footer */
