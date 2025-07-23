@@ -2149,15 +2149,15 @@ input, select, textarea {
 		z-index: 1;
 		top: 0;
 		left: 50%;
-		width: 15em;
+		/* width: 15em; */
 		margin-left: -7.5em;
 	}
 
 		#logo a {
 			display: block;
 			width: 100%;
-			height: 4em;
-			line-height: 4em;
+			/* height: 4em; */
+			/* line-height: 4em; */
 			background: rgba(255, 255, 255, 0.15);
 			border: solid 1px;
 			border-color: #fff;
@@ -2773,15 +2773,15 @@ input, select, textarea {
 
 		/* Header */
 
-			#logo {
+			/* #logo {
 				position: relative;
-			}
+			} */
 
 				#logo a {
 					border: solid 1px rgba(255, 255, 255, 0.75);
 					border-radius: 0.35em;
-					height: 3em;
-					line-height: 3em;
+					/* height: 3em;
+					line-height: 3em; */
 				}
 
 		/* Nav */
