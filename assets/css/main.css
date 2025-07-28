@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,600");
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
 
 /*
 	Telephasic by HTML5 UP
@@ -2110,7 +2111,7 @@ input, select, textarea {
 
 	#header-wrapper {
 		position: relative;
-		padding: 4em 0 2em 0;
+		padding: 2em 0 2em 0;
 		background-image: url("images/header.svg");
 		background-image: url("images/overlay.png"), url("images/header.svg"), -moz-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
 		background-image: url("images/overlay.png"), url("images/header.svg"), -webkit-linear-gradient(75deg, #FF7088 15%, #F2B69D 55%);
@@ -2123,7 +2124,7 @@ input, select, textarea {
 	}
 
 	.homepage #header-wrapper {
-		padding: 6em 0 6em 0;
+		padding: 2em 0 2em 0;
 		background-size: 128px 128px, 100% 100%, auto;
 	}
 
@@ -2554,11 +2555,11 @@ input, select, textarea {
 			}
 
 			#header-wrapper {
-				padding: 5em 0 1em 0;
+				padding: 2em 0 2em 0;
 			}
 
 			.homepage #header-wrapper {
-				padding: 5em 0 4em 0;
+				padding: 2em 0 2em 0;
 			}
 
 			#promo-wrapper {
@@ -2794,7 +2795,7 @@ input, select, textarea {
 			}
 
 			.homepage #header-wrapper {
-				padding: 3em 20px 3em 20px;
+				padding: 2em 20px 2em 20px;
 			}
 
 			#promo-wrapper {
@@ -3169,3 +3170,19 @@ input, select, textarea {
 			}
 
 	}
+
+  /* Custom */
+  .text-center {
+    text-align: center;
+  }
+  .home-callout h2 {
+    font-size: 3.5em;
+    color: rgb(12, 12, 68);
+    letter-spacing: -.03em;
+    line-height: 0.9em;
+  }
+  .oleo-script-regular {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
