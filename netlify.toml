@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "/philosophy.html"
+  to = "https://www.caringchoicenetwork.com/index.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/contact.html"
+  to = "https://www.caringchoicenetwork.com/index.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/services.html"
+  to = "https://www.caringchoicenetwork.com/index.html"
+  status = 301
+  force = true
